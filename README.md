@@ -19,8 +19,8 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 ## Artefatos do projeto
 
 - Documento de especificação
-- Fluxos de navegação
-- Protótipo de baixa fidelidade
+- [Fluxos de navegação](https://drive.google.com/file/d/107wizunHIyzoR6_BABTVLwNwIQt-5OMh/view?usp=sharing) 
+- [Protótipo de baixa fidelidade](https://www.figma.com/design/d683YVRkN3Fq9X3ovG05FF/Sem-t%C3%ADtulo?node-id=0-1&t=x6oZrIompm99SJ7R-1)
 - Outros artefatos do Projeto Integrador
 
 ## Status
