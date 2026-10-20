@@ -25,4 +25,22 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 
 ## Status
 
-O projeto encontra-se na segunda fase do desenvolvimento, dedicada à pesquisa com usuários, à análise dos resultados e à evolução dos requisitos, da experiência do usuário e do planejamento do sistema.
+Status atual: Em desenvolvimento — Fase 02
+
+O UniBooks está na segunda fase do Projeto Integrador, voltada à pesquisa com usuários e à gestão do projeto. Nesta etapa, estão sendo analisadas as respostas obtidas por meio de questionários para identificar necessidades, dificuldades e expectativas relacionadas ao acesso e à negociação de livros acadêmicos.
+
+Os resultados da pesquisa servem como base para avaliar e aprimorar os requisitos funcionais e não funcionais, os fluxos de navegação, os protótipos de interface e o planejamento das atividades do projeto.
+
+O objetivo permanece o desenvolvimento de uma plataforma que facilite o empréstimo, a troca, a doação e a compra e venda de livros acadêmicos entre estudantes, ampliando as possibilidades de acesso a materiais de estudo.
+
+Próximas atividades:
+
+Consolidar e documentar os resultados da pesquisa com usuários.
+
+Revisar os requisitos do sistema com base nas evidências coletadas.
+
+Avaliar e atualizar os fluxos de navegação e os protótipos.
+
+Organizar os diagramas iniciais e os artefatos do projeto.
+
+Atualizar a documentação e o histórico de versões.
