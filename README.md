@@ -18,11 +18,11 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 
 ## Artefatos do projeto
 
-- [Documento de especificação](https://drive.google.com/file/d/1LtCwLZSP49QqP-bvCzWwOqlJ-eNe3aHB/view)
+- [Documento de especificação](https://drive.google.com/file/d/1fFw1tIzpSqqd4kB4o_JSF72QY4vr8blu/view?usp=sharing)
 - [Fluxos de navegação](https://drive.google.com/file/d/107wizunHIyzoR6_BABTVLwNwIQt-5OMh/view?usp=sharing) 
 - [Protótipo de baixa fidelidade](https://www.figma.com/proto/d683YVRkN3Fq9X3ovG05FF/Design-prototipo-de-baixa-fidelidade?node-id=4-10&t=zBfoJmyMn3FqBCnW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 - Outros artefatos do Projeto Integrador
 
 ## Status
 
-Projeto em fase de definição conceitual, UX/UI e prototipação de baixa fidelidade.
+O projeto encontra-se na segunda fase do desenvolvimento, dedicada à pesquisa com usuários, à análise dos resultados e à evolução dos requisitos, da experiência do usuário e do planejamento do sistema.
