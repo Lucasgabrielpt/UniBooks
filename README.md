@@ -11,7 +11,7 @@ O UniBooks é uma proposta de plataforma digital voltada para estudantes univers
 O projeto possui um protótipo interativo desenvolvido no Figma.
 
 ### Protótipo interativo
-[ACESSAR PROTÓTIPO NO FIGMA](https://www.figma.com/make/kxTLdgOCM2xnCqeBqbuLDp/Prototipo-Unibook-vers%C3%A3o-1.0--baixa-fidelidade-?t=T6ts6psXM3z982Be-1)
+[ACESSAR PROTÓTIPO NO FIGMA](https://www.figma.com/design/UoCZwJEfHWbbcOUzhKprPp/UniBooks-Prototipo-Fase3-importado.fig?node-id=0-1&t=6etmW2ZLTuZJtwRT-1)
 
 ## Fluxogramas
 - [ACESSAR FLUXOGRAMA PRINCIPAL](https://drive.google.com/file/d/1ZwGddf0TRtb695IWNp_turpxHPMjRaol/view?usp=sharing)
