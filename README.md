@@ -20,7 +20,7 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 
 - [Documento de especificação](https://drive.google.com/file/d/1JTcVUmzwAsMYV88RobrdPP-CTbdJyhlN/view?usp=sharing)
 - [Fluxos de navegação](https://drive.google.com/file/d/1TFCOsfUpHkHWy6sSKnWIVjhuDdE-498V/view?usp=sharing) 
-- [Protótipo de baixa fidelidade](https://www.figma.com/proto/d683YVRkN3Fq9X3ovG05FF/Design-prototipo-de-baixa-fidelidade?node-id=4-10&t=zBfoJmyMn3FqBCnW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+- [Protótipo de baixa fidelidade](https://www.figma.com/design/UoCZwJEfHWbbcOUzhKprPp/UniBooks-Prototipo-Fase3-importado.fig?node-id=2-270&t=6etmW2ZLTuZJtwRT-1)
 - Outros artefatos do Projeto Integrador
 
 ## Status
