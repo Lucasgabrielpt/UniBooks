@@ -23,7 +23,15 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 - [Protótipo de baixa fidelidade](https://www.figma.com/design/UoCZwJEfHWbbcOUzhKprPp/UniBooks-Prototipo-Fase3-importado.fig?node-id=2-270&t=6etmW2ZLTuZJtwRT-1)
 - Outros artefatos do Projeto Integrador
 
-## Status
+## Gestão e Organização do Projeto
+
+A organização e o acompanhamento das atividades do UniBooks são realizados por meio do Notion, utilizado para centralizar o planejamento, registrar as etapas do Projeto Integrador e acompanhar a evolução das entregas durante o semestre.
+
+A ferramenta reúne informações relacionadas às pesquisas com usuários, à gestão das atividades e ao desenvolvimento dos artefatos das Fases 01, 02 e 03.
+
+### Espaço de gestão no Notion
+
+- [ACESSAR GESTÃO DO PROJETO NO NOTION](https://app.notion.com/p/UniBooks-Fase-02-Pesquisa-com-Usu-rios-e-Gest-o-do-Projeto-38859bffd85c4221810339aecf7f9f97)
 
 ## Status
 
