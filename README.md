@@ -14,7 +14,9 @@ O projeto possui um protótipo interativo desenvolvido no Figma.
 [ACESSAR PROTÓTIPO NO FIGMA](https://www.figma.com/make/kxTLdgOCM2xnCqeBqbuLDp/Prototipo-Unibook-vers%C3%A3o-1.0--baixa-fidelidade-?t=T6ts6psXM3z982Be-1)
 
 ### Fluxogramas
-[ACESSAR FLUXOGRAMA PRINCIPAL]([https://www.figma.com/board/P5TvpFlKm040IXcFcWcLHg/Fluxogramas-Unibook?node-id=1-300&t=HhaQm6WHEkTtEFVR-1](https://drive.google.com/file/d/1ZwGddf0TRtb695IWNp_turpxHPMjRaol/view?usp=sharing))
+[ACESSAR FLUXOGRAMA PRINCIPAL]((https://drive.google.com/file/d/1ZwGddf0TRtb695IWNp_turpxHPMjRaol/view?usp=sharing))
+
+[ACESSAR FLUXOGRAMAS COMPLEMENTARES](https://drive.google.com/file/d/1TFCOsfUpHkHWy6sSKnWIVjhuDdE-498V/view?usp=sharing)
 
 ## Artefatos do projeto
 
