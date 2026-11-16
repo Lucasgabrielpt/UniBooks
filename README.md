@@ -11,37 +11,39 @@ O UniBooks é uma proposta de plataforma digital voltada para estudantes univers
 O projeto possui um protótipo interativo desenvolvido no Figma.
 
 ### Protótipo interativo
-[ACESSAR PROTÓTIPO NO FIGMA](https://www.figma.com/design/UoCZwJEfHWbbcOUzhKprPp/UniBooks-Prototipo-Fase3-importado.fig?node-id=0-1&t=6etmW2ZLTuZJtwRT-1)
+- [ACESSAR PROTÓTIPO NO FIGMA](https://www.figma.com/design/UoCZwJEfHWbbcOUzhKprPp/UniBooks-Prototipo-Fase3-importado.fig?node-id=0-1&t=6etmW2ZLTuZJtwRT-1)
 
 ## Fluxogramas
 - [ACESSAR FLUXOGRAMA PRINCIPAL](https://drive.google.com/file/d/1ZwGddf0TRtb695IWNp_turpxHPMjRaol/view?usp=sharing)
-- [ACESSAR FLUXOGRAMAS COMPLEMENTARES](https://drive.google.com/file/d/1TFCOsfUpHkHWy6sSKnWIVjhuDdE-498V/view?usp=sharing)
 
 ## Artefatos do projeto
 
-- [Documento de especificação](https://drive.google.com/file/d/1fFw1tIzpSqqd4kB4o_JSF72QY4vr8blu/view?usp=sharing)
-- [Fluxos de navegação](https://drive.google.com/file/d/107wizunHIyzoR6_BABTVLwNwIQt-5OMh/view?usp=sharing) 
+- [Documento de especificação](https://drive.google.com/file/d/1JTcVUmzwAsMYV88RobrdPP-CTbdJyhlN/view?usp=sharing)
+- [Fluxos de navegação](https://drive.google.com/file/d/1TFCOsfUpHkHWy6sSKnWIVjhuDdE-498V/view?usp=sharing) 
 - [Protótipo de baixa fidelidade](https://www.figma.com/proto/d683YVRkN3Fq9X3ovG05FF/Design-prototipo-de-baixa-fidelidade?node-id=4-10&t=zBfoJmyMn3FqBCnW-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 - Outros artefatos do Projeto Integrador
 
 ## Status
 
-Status atual: Em desenvolvimento — Fase 02
+## Status
 
-O UniBooks está na segunda fase do Projeto Integrador, voltada à pesquisa com usuários e à gestão do projeto. Nesta etapa, estão sendo analisadas as respostas obtidas por meio de questionários para identificar necessidades, dificuldades e expectativas relacionadas ao acesso e à negociação de livros acadêmicos.
+**Status atual:** Em desenvolvimento — Fase 03 | Consolidação e Apresentação Final
 
-Os resultados da pesquisa servem como base para avaliar e aprimorar os requisitos funcionais e não funcionais, os fluxos de navegação, os protótipos de interface e o planejamento das atividades do projeto.
+O UniBooks encontra-se na terceira e última fase do Projeto Integrador do 2º período de Engenharia de Software, dedicada à consolidação dos artefatos produzidos ao longo do semestre e à apresentação da proposta à banca avaliadora.
 
-O objetivo permanece o desenvolvimento de uma plataforma que facilite o empréstimo, a troca, a doação e a compra e venda de livros acadêmicos entre estudantes, ampliando as possibilidades de acesso a materiais de estudo.
+Nesta etapa, o projeto concentra-se na revisão e finalização do Documento de Especificação, considerando os resultados das pesquisas com usuários, os requisitos funcionais e não funcionais, os fluxos de navegação, os diagramas e os ajustes realizados a partir dos feedbacks recebidos nas fases anteriores.
 
-Próximas atividades:
+O protótipo de interface evolui para uma versão de média fidelidade, com foco na padronização visual, na experiência do usuário e na implementação de interações e navegação entre as telas, utilizando o Figma.
 
-Consolidar e documentar os resultados da pesquisa com usuários.
+O objetivo do UniBooks permanece o desenvolvimento de uma plataforma web que facilite o empréstimo, a troca, a doação e a compra e venda de livros acadêmicos entre estudantes.
 
-Revisar os requisitos do sistema com base nas evidências coletadas.
+### Atividades da Fase 03
 
-Avaliar e atualizar os fluxos de navegação e os protótipos.
+- Revisar e consolidar o Documento de Especificação do Projeto Integrador.
+- Validar e atualizar os requisitos, fluxogramas e diagramas do sistema.
+- Refinar as interfaces e padronizar os componentes por meio do Design System.
+- Finalizar o protótipo navegável e suas interações no Figma.
+- Organizar os artefatos e links de documentação no repositório.
+- Preparar a apresentação técnica e acadêmica para a banca avaliadora.
 
-Organizar os diagramas iniciais e os artefatos do projeto.
-
-Atualizar a documentação e o histórico de versões.
+**Observação:** O UniBooks permanece na etapa de prototipação e especificação. A implementação funcional da plataforma web está prevista para etapas futuras do projeto.
